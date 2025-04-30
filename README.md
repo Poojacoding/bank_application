@@ -38,8 +38,8 @@ To run this application, you need to have the following installed on your system
 1. **Clone the Repository**
   
    ```bash
- git clone https://github.com/Poojacoding/bank_application.git
- cd bank_application
+   git clone https://github.com/Poojacoding/bank_application.git
+   cd bank_application
 
 2. **Open the IntelliJ IDEA**
 
